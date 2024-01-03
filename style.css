@@ -6,8 +6,6 @@
     box-sizing: border-box;
 }
 
-body {}
-
 .container {
     position: relative;
     border-radius: 15px 50px;
